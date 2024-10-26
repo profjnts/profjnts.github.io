@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #d5134d;
+  color:  #3b71be;
   text-decoration: none;
 }
 
 a:hover {
-  color: #d5134d;
+  color:  #3b71be;
   text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 ::selection {
-  background-color: #d5134d;
+  background-color:  #3b71be;
   color: rgb(255, 255, 255);
 }
 /*--------------------------------------------------------------
@@ -46,7 +46,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #d5134d;
+  background:  #3b71be;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -88,7 +88,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #d5134d;
+  border: 6px solid  #3b71be;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
