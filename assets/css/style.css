@@ -280,7 +280,7 @@ h6 {
   background: url("../img/bg2.jpg") no-repeat;
   background-position: top right 200px;
   background-size: contain;
-  position: relative;
+  position: center;
 }
 
 @media (min-width: 992px) {
